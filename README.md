@@ -20,9 +20,13 @@ TODO: Eine selbst ergaenzte Regel und ihre Testfaelle dokumentieren.
 
 # Dateien
 data/: Rohdaten, Mapping und vorbereitete SQLite-Datenbank
+
 sql/01_my_queries.sql: eigene Abfragen ergaenzen
+
 data-quality-workbook.xlsx: Excel-Uebungen, Daten und Katalog
+
 docs/quality_report_de.md: Berichtsvorlage
+
 reference/: bereitgestellte Referenzloesungen
 
 
